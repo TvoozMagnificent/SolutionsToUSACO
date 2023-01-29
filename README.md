@@ -1,2 +1,1 @@
-# SolutionsToUSACO
-SolutionsToUSACO
+# Python Solutions to USACO problems. 
